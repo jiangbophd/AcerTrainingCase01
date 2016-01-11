@@ -4,5 +4,7 @@
 
 var myName = 'asdfasd';
 
+var  test = '';
+
 
 
